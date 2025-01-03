@@ -3,8 +3,6 @@
 ## Tugas Besar Mikrokontroler dan Antarmuka
 
 **Reaction Game Berbasis STM32F103**
-![WhatsApp Image 2025-01-01 at 20.21.04_47ca1072](https://hackmd.io/_uploads/rk2kIFB8Jx.jpg)
-
 
 ### Disusun Oleh
 - Maulana Hafiz (1103223105)
