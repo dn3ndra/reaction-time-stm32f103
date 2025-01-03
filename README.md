@@ -3,6 +3,7 @@
 ## Tugas Besar Mikrokontroler dan Antarmuka
 
 **Reaction Game Berbasis STM32F103**
+![image alt](https://github.com/dn3ndra/reaction-time-stm32f103/blob/6c6fcc6f8149f13e51b700814201ed341c654882/reactiongame.jpg)
 
 ### Disusun Oleh
 - Maulana Hafiz (1103223105)
